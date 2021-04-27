@@ -1,3 +1,3 @@
 # Handling_Github_Pages
-manes# Auritro Mridha, Monisha Momtaz
+names# Auritro Mridha, Monisha Momtaz
 
