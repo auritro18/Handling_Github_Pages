@@ -1,3 +1,3 @@
 # Handling_Github_Pages
-names# Auritro Mridha, Monisha Momtaz
+Team member names: Auritro Mridha, Monisha Momtaz
 
