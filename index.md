@@ -1,4 +1,4 @@
-## Hey there!
+## **Hey there!**
 
 You can use the [editor on GitHub](https://github.com/auritro18/Handling_Github_Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
