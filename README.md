@@ -2,5 +2,5 @@
 
 ## Team member names: 
 * Auritro Mridha
-* Monisha Momtaz
+* Monisha Momotaz 
 
