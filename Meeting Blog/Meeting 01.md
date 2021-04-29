@@ -6,3 +6,9 @@
 ## Update this week
 * Repository created
 * Github page for repository activated
+
+## Goals for next week
+* Learn how to edit 
+  * .md file
+  * .html file
+  * .yml/.yaml (config.yml) file
